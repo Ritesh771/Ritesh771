@@ -4,7 +4,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 
 ---
 
-## 🔧 Skills & Tools
+##  Skills & Tools
 - **Languages:** Python, JavaScript, TypeScript, C++
 - **Frontend:** React, Redux Toolkit, Tailwind CSS, Framer Motion
 - **Backend:** Django, Django REST Framework, Node.js (basic)
@@ -15,7 +15,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 
 ---
 
-## 🧠 Projects & Roles
+##  Projects & Roles
 - **Founder @ Stalight Technology Pvt Ltd**  
   AI-based solutions for college management — Facial Recognition Attendance, Blockchain Certificate Validation, Proctoring, Rank Prediction.
   
@@ -30,7 +30,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **Email:** riteshnvisonex@gmail.com
 - **LinkedIn:** Ritesh N
@@ -38,7 +38,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - AI-enhanced student profile analytics
 - Blockchain-based certificate validation system
