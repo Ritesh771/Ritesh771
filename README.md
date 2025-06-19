@@ -33,7 +33,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 ## Let's Connect
 
 - **Email:** riteshnvisonex@gmail.com
-- **LinkedIn:** Ritesh N
+- **LinkedIn:** https://www.linkedin.com/in/ritesh-n-5113b328a/
 - **GitHub:** [github.com/Ritesh771](https://github.com/Ritesh771)
 
 ---
