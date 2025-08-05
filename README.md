@@ -34,7 +34,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 
 - **Email:** riteshnvisonex@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ritesh-n-5113b328a/
-- **Portfolio:** https://riteshn.vercel.app/
+- **Portfolio:** https://riteshn.me/
 
 ---
 
@@ -43,6 +43,6 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 - AI-enhanced student profile analytics
 - Blockchain-based certificate validation system
 - Advanced campus solutions via Stalight Technology
-
+- AI powered camera survillence system (NETRA)
 ---
 
