@@ -16,7 +16,7 @@ I'm a passionate full-stack developer and the founder of **Stalight Technology P
 ---
 
 ##  Projects & Roles
-- **Founder @ Stalight Technology Pvt Ltd**  
+- **Founder @ Stalight Technology **  
   AI-based solutions for college management — Facial Recognition Attendance, Blockchain Certificate Validation, Proctoring, Rank Prediction.
   
 - **Lead Developer** of College Management System (React + Django)  
