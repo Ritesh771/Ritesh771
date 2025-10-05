@@ -1,19 +1,21 @@
 # 💫 About Me:
-Hi, I'm **Ritesh N** 👋  
-I'm a passionate **Full-Stack Developer** and the **Founder of [Stalight Technology Pvt Ltd](https://stalight.tech)** — a startup focused on **AI-based campus solutions** such as facial recognition attendance, blockchain-based certificate verification, rank prediction systems, and more.  
+Hi, I'm Ritesh N
+---
+Developer | AI Innovator | Startup Founder
 
-I love building **scalable backends** using **Django / FastAPI** and **interactive frontends** using **React, Redux, and GSAP**.
+Enthusiastic and driven Full-Stack Developer with a strong foundation in Artificial Intelligence and Machine Learning, currently pursuing a B.E. in CSE (AI & ML) from A.M.C. Engineering College, Bangalore. Founder and CEO of Stalight Technology, a tech startup focused on campus automation and AI-driven applications.
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_royal_ritesh_7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-n-5113b328a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshnvisonex@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=googlechrome&logoColor=white)](https://riteshn.me/)
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,25 +42,34 @@ I love building **scalable backends** using **Django / FastAPI** and **interacti
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+#  GitHub Stats:
+<!-- Profile summary card (no grade) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh771&theme=dark)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ritesh771&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=Ritesh771&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh771&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- Contribution streaks -->
+![](https://streak-stats.demolab.com?user=Ritesh771&theme=dark&hide_border=true)
+
+<!-- Top languages (compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh771&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+<details>
+
+<summary>🏆 GitHub Trophies</summary>
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Ritesh771&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
+</div>
+
+</details>
+
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### 🔝 Top Contributed Repos
+###  Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=Ritesh771&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
@@ -67,7 +78,118 @@ I love building **scalable backends** using **Django / FastAPI** and **interacti
 
 ---
 
-## 💰 You can support me by Donating
+## Proficiency Level
+
+### Backend Development
+<svg width="100%" height="20">
+  <rect width="100%" height="20" fill="#ddd" rx="5"/>
+  <rect width="0%" height="20" fill="#4CAF50" rx="5">
+    <animate attributeName="width" from="0%" to="75%" dur="2s" fill="freeze"/>
+  </rect>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-weight="bold">75%</text>
+</svg>
+
+### Frontend Development
+<svg width="100%" height="20">
+  <rect width="100%" height="20" fill="#ddd" rx="5"/>
+  <rect width="0%" height="20" fill="#2196F3" rx="5">
+    <animate attributeName="width" from="0%" to="65%" dur="2s" fill="freeze"/>
+  </rect>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-weight="bold">65%</text>
+</svg>
+
+### DevOps & Deployment
+<svg width="100%" height="20">
+  <rect width="100%" height="20" fill="#ddd" rx="5"/>
+  <rect width="0%" height="20" fill="#FF9800" rx="5">
+    <animate attributeName="width" from="0%" to="60%" dur="2s" fill="freeze"/>
+  </rect>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-weight="bold">60%</text>
+</svg>
+
+### Software Engineering
+<svg width="100%" height="20">
+  <rect width="100%" height="20" fill="#ddd" rx="5"/>
+  <rect width="0%" height="20" fill="#9C27B0" rx="5">
+    <animate attributeName="width" from="0%" to="50%" dur="2s" fill="freeze"/>
+  </rect>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-weight="bold">50%</text>
+</svg>
+
+## Preferred Roles
+- Software Engineer
+- Backend Developer
+- Frontend Developer
+- DevOps Engineer
+
+## Location
+Bengaluru, India
+
+---
+
+# Projects
+
+## Safe Space (Women's Safety App)
+Mobile app with location tracking, panic button, and emergency alerts
+
+**Technologies:** React.js, Django, PostgreSQL, +2
+
+
+
+## Slot Booking Platform
+**Duration:** Jun 2023 - Aug 2023  
+**Organization:** Stalight Technology  
+
+Online slot booking system for sports with Razorpay integration
+
+**Technologies:** React.js, Django, PostgreSQL, +1
+
+
+
+## Crack the Campus (Placement Guidance)
+**Duration:** Feb 2025 - Present  
+**Organization:** Castle Rockin  
+
+Confidential platform under NDA – personal role included UI development and backend APIs
+
+**Technologies:** HTML5, CSS3, React.js, +1
+
+
+
+## AgriWe (Smart Farming Assistant)
+**Duration:** Apr 2024  
+**Organization:** T. John College of Engineering  
+
+Suggests high-yield crops, fertilizers, and pesticides based on seasonal data
+
+**Technologies:** Python, HTML5, CSS3
+
+
+
+## Anomaly Detection Surveillance System
+**Duration:** Jan 2024 - Mar 2024  
+**Organization:** AMC College of Engineering  
+
+Real-time detection of suspicious activity using Python & Flask
+
+**Technologies:** Flask, MySQL, Redis
+
+
+
+## Navigation Guidance for the Visually Impaired
+**Duration:** Jan 2025  
+**Organization:** Stalight Technology  
+
+TensorFlow-based navigation system providing audio cues
+
+**Technologies:** Python, Flask, TensorFlow
+
+
+
+---
+
+
+##  You can support for DevOps by donating :
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritesh771)
 
 ---
