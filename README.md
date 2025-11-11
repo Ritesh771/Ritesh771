@@ -84,6 +84,14 @@ Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineerin
 ---
 
 #  GitHub Stats:
+
+<!-- Profile summary card (no grade) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh771&theme=dark)
+
+
+
+<!-- Top languages (compact) -->
+
 ![](https://github-readme-stats.vercel.app/api?username=Ritesh771&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ritesh771&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh771&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -108,6 +116,10 @@ Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineerin
 
 ---
 
+
+###  Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Ritesh771&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ritesh771&style=for-the-badge&color=00BFFF" alt="Profile Views" />
 </div>
@@ -126,6 +138,4 @@ Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineerin
 
 ---
 
-<p align="center">
-  <i>✨ Crafted with passion using <a href="https://gprm.itsvg.in">GPRM</a> ✨</i>
-</p>
+
