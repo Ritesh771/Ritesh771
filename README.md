@@ -138,4 +138,7 @@ Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineerin
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh771&theme=react-dark&area=true" alt="Activity Graph" />
+</p>
 
