@@ -1,7 +1,7 @@
 # Hey there! I'm Ritesh N 👋  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;AI+%26+ML+Innovator;Startup+Founder+@+Stalight+Technology;Building+Smart+%26+Secure+AI+Systems+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;AI+%26+ML+Innovator;Building+Smart+%26+Secure+AI+Systems+🚀" alt="Typing SVG" />
 </div>
 
 ---
