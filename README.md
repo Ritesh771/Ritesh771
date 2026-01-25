@@ -9,7 +9,9 @@
 ##  About Me  
 
  [**click here to view my Portfolio**](https://riteshn.me/) 
-  [**click here to view my Resume**](https://drive.google.com/file/d/1u_6g4kFCVCeaIW9ywyCeelOD4ROPtNk2/view?usp=drive_link) 
+ ---------------
+ 
+[**click here to view my Resume**](https://drive.google.com/file/d/1u_6g4kFCVCeaIW9ywyCeelOD4ROPtNk2/view?usp=drive_link) 
 
 I’m an **enthusiastic Full-Stack Developer** and **AI Innovator** passionate about transforming bold ideas into scalable, intelligent, and beautiful products.  
 Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineering College, Bangalore**.  
