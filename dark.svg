@@ -83,6 +83,8 @@
       </g>
     </g>
 
+    </g>
+
   <!-- RIGHT SECTION (Terminal) -->
   <g transform="translate(470, 40)">
     <rect width="670" height="530" fill="#0F172A" rx="12" stroke="rgba(255,255,255,.08)" stroke-width="1" filter="url(#glass)" />
