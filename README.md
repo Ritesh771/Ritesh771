@@ -9,7 +9,7 @@
 # Hey there! I'm Ritesh N 👋  
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=DevOps+%26+Production+Engineer;AI+Systems+Builder;Scalable+Cloud+Infrastructure;Automation+%26+MLOps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=DevOps+%26+Production+Engineer;AI+Systems+Builder;Scalable+Cloud+Solutions;Full-Stack+Developer" alt="Typing intro" />
 </div>
 
 ---
@@ -25,7 +25,7 @@
 I’m an **enthusiastic Full-Stack Developer** and **AI Innovator** passionate about transforming bold ideas into scalable, intelligent, and beautiful products.  
 Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineering College, Bangalore**.  
 
- I thrive at the intersection of **AI, design, and development**, building systems that think, react, and adapt — from **smart camera surveillance** to **AI-driven chatbots** and **real-time analytics tools**.  
+ I thrive at the intersection of **AI, design, and development**, building systems that think, react, and adapt — from **smart camera surveillance** to **AI-driven chatbots** and **real-time analytics**.
 
 🏆 **Awards & Highlights:**
 - 🥇 **Class Topper** — Academic Excellence  
@@ -153,4 +153,3 @@ Currently pursuing **B.E. in Computer Science (AI & ML)** at **A.M.C. Engineerin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh771&theme=react-dark&area=true" alt="Activity Graph" />
 </p>
-
